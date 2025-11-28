@@ -16,3 +16,6 @@ echo $priceCurrent
 echo $priceHigh
 echo $priceLow
 
+"C:/xampp/mysql/bin/mysql.exe" -u root crypto_db -e "INSERT INTO BTC (currentPrice, highPrice, lowPrice) VALUES ($priceCurrent, $priceHigh, $priceLow);"
+
+
