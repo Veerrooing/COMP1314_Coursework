@@ -1,4 +1,5 @@
-timestamp=$(date + "%Y-%m-%d_%H-%M-%S")
+timestamp=$(date +"%Y-%m-%d %H:%M:%S")
+echo "[$timestamp] Script started"
 
 HTML=$(curl -s "https://coinmarketcap.com/currencies/bitcoin/" -o "temp.html")
 
