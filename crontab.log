@@ -113,3 +113,652 @@
 2025-12-02 15:00:01 : Silver Current Price : 57.07
 2025-12-02 15:00:01 : ETH Current Price : 2814.02, ETH Low Price : 2720.44, ETH High Price : 2848.97
 2025-12-02 15:00:01 : Data inserted successfully
+[2025-12-02 16:00:01] Script started
+2025-12-02 16:00:01 : BTC Current Price : 87038.61, BTC Low Price : 83862.25, BTC High Price : 87325.31
+2025-12-02 16:00:01 : Gold Current Price : 4209.90
+2025-12-02 16:00:01 : Silver Current Price : 57.18
+2025-12-02 16:00:01 : ETH Current Price : 2805.70, ETH Low Price : 2720.44, ETH High Price : 2848.97
+2025-12-02 16:00:01 : Data inserted successfully
+[2025-12-02 17:00:01] Script started
+2025-12-02 17:00:01 : BTC Current Price : 86411.62, BTC Low Price : 83862.25, BTC High Price : 87325.31
+2025-12-02 17:00:01 : Gold Current Price : 4209.70
+2025-12-02 17:00:01 : Silver Current Price : 57.04
+2025-12-02 17:00:01 : ETH Current Price : 2796.39, ETH Low Price : 2720.44, ETH High Price : 2848.97
+2025-12-02 17:00:01 : Data inserted successfully
+[2025-12-02 18:00:01] Script started
+Error: Opening Page.
+Stopping Script
+[2025-12-02 19:00:01] Script started
+2025-12-02 19:00:01 : BTC Current Price : 87324.43, BTC Low Price : 83862.25, BTC High Price : 87578.36
+2025-12-02 19:00:01 : Gold Current Price : 4185.10
+2025-12-02 19:00:01 : Silver Current Price : 56.94
+2025-12-02 19:00:01 : ETH Current Price : 2824.77, ETH Low Price : 2720.44, ETH High Price : 2847.84
+2025-12-02 19:00:01 : Data inserted successfully
+[2025-12-02 20:00:01] Script started
+2025-12-02 20:00:01 : BTC Current Price : 87530.00, BTC Low Price : 83862.25, BTC High Price : 87578.36
+2025-12-02 20:00:01 : Gold Current Price : 4204.20
+2025-12-02 20:00:01 : Silver Current Price : 57.33
+2025-12-02 20:00:01 : ETH Current Price : 2827.92, ETH Low Price : 2720.44, ETH High Price : 2838.83
+2025-12-02 20:00:01 : Data inserted successfully
+[2025-12-02 21:00:01] Script started
+2025-12-02 21:00:01 : BTC Current Price : 87307.37, BTC Low Price : 83862.25, BTC High Price : 87578.36
+2025-12-02 21:00:01 : Gold Current Price : 4208.20
+2025-12-02 21:00:01 : Silver Current Price : 57.37
+2025-12-02 21:00:01 : ETH Current Price : 2826.01, ETH Low Price : 2720.44, ETH High Price : 2838.76
+2025-12-02 21:00:01 : Data inserted successfully
+[2025-12-02 22:00:01] Script started
+2025-12-02 22:00:01 : BTC Current Price : 87768.68, BTC Low Price : 83862.25, BTC High Price : 87744.06
+2025-12-02 22:00:01 : Gold Current Price : 4209.50
+2025-12-02 22:00:01 : Silver Current Price : 57.47
+2025-12-02 22:00:01 : ETH Current Price : 2842.08, ETH Low Price : 2720.44, ETH High Price : 2843.61
+2025-12-02 22:00:01 : Data inserted successfully
+[2025-12-02 23:00:01] Script started
+2025-12-02 23:00:01 : BTC Current Price : 89131.40, BTC Low Price : 83862.25, BTC High Price : 89229.92
+2025-12-02 23:00:01 : Gold Current Price : 4218.20
+2025-12-02 23:00:01 : Silver Current Price : 58.05
+2025-12-02 23:00:01 : ETH Current Price : 2888.59, ETH Low Price : 2720.44, ETH High Price : 2908.64
+2025-12-02 23:00:01 : Data inserted successfully
+[2025-12-03 00:00:02] Script started
+2025-12-03 00:00:02 : BTC Current Price : 90924.15, BTC Low Price : 84071.67, BTC High Price : 91193.79
+2025-12-03 00:00:02 : Gold Current Price : 4171.90
+2025-12-03 00:00:02 : Silver Current Price : 57.16
+2025-12-03 00:00:02 : ETH Current Price : 3007.84, ETH Low Price : 2722.35, ETH High Price : 3018.28
+2025-12-03 00:00:02 : Data inserted successfully
+[2025-12-03 03:00:02] Script started
+2025-12-03 03:00:02 : BTC Current Price : 91957.07, BTC Low Price : 84634.05, BTC High Price : 92213.01
+2025-12-03 03:00:02 : Gold Current Price : 4188.40
+2025-12-03 03:00:02 : Silver Current Price : 57.94
+2025-12-03 03:00:02 : ETH Current Price : 3014.70, ETH Low Price : 2732.90, ETH High Price : 3032.76
+2025-12-03 03:00:02 : Data inserted successfully
+[2025-12-03 04:00:03] Script started
+2025-12-03 04:00:03 : BTC Current Price : 91994.33, BTC Low Price : 85007.32, BTC High Price : 92316.63
+2025-12-03 04:00:03 : Gold Current Price : 4198.20
+2025-12-03 04:00:03 : Silver Current Price : 58.29
+2025-12-03 04:00:03 : ETH Current Price : 3016.98, ETH Low Price : 2740.43, ETH High Price : 3032.76
+2025-12-03 04:00:03 : Data inserted successfully
+[2025-12-03 05:00:03] Script started
+2025-12-03 05:00:03 : BTC Current Price : 91016.47, BTC Low Price : 85423.44, BTC High Price : 92316.63
+2025-12-03 05:00:03 : Gold Current Price : 4208.80
+2025-12-03 05:00:03 : Silver Current Price : 58.54
+2025-12-03 05:00:03 : ETH Current Price : 2983.26, ETH Low Price : 2756.75, ETH High Price : 3032.76
+2025-12-03 05:00:03 : Data inserted successfully
+[2025-12-03 06:00:02] Script started
+2025-12-03 06:00:02 : BTC Current Price : 91609.75, BTC Low Price : 86202.19, BTC High Price : 92316.63
+2025-12-03 06:00:02 : Gold Current Price : 4205.10
+2025-12-03 06:00:02 : Silver Current Price : 58.39
+2025-12-03 06:00:02 : ETH Current Price : 2997.20, ETH Low Price : 2784.39, ETH High Price : 3032.76
+2025-12-03 06:00:02 : Data inserted successfully
+[2025-12-03 07:00:03] Script started
+2025-12-03 07:00:03 : BTC Current Price : 91985.10, BTC Low Price : 86202.19, BTC High Price : 92316.63
+2025-12-03 07:00:03 : Gold Current Price : 4205.40
+2025-12-03 07:00:03 : Silver Current Price : 58.39
+2025-12-03 07:00:03 : ETH Current Price : 3016.08, ETH Low Price : 2784.39, ETH High Price : 3032.76
+2025-12-03 07:00:03 : Data inserted successfully
+[2025-12-03 08:00:03] Script started
+2025-12-03 08:00:03 : BTC Current Price : 91381.47, BTC Low Price : 86202.19, BTC High Price : 92316.63
+2025-12-03 08:00:03 : Gold Current Price : 4212.20
+2025-12-03 08:00:03 : Silver Current Price : 58.61
+2025-12-03 08:00:03 : ETH Current Price : 2997.69, ETH Low Price : 2784.39, ETH High Price : 3032.76
+2025-12-03 08:00:03 : Data inserted successfully
+[2025-12-03 09:00:02] Script started
+2025-12-03 09:00:02 : BTC Current Price : 91518.67, BTC Low Price : 86216.69, BTC High Price : 92316.63
+2025-12-03 09:00:02 : Gold Current Price : 4210.10
+2025-12-03 09:00:02 : Silver Current Price : 58.25
+2025-12-03 09:00:02 : ETH Current Price : 3003.80, ETH Low Price : 2784.39, ETH High Price : 3032.76
+2025-12-03 09:00:02 : Data inserted successfully
+[2025-12-03 10:00:01] Script started
+2025-12-03 10:00:01 : BTC Current Price : 92304.42, BTC Low Price : 86216.69, BTC High Price : 92439.02
+2025-12-03 10:00:01 : Gold Current Price : 4214.10
+2025-12-03 10:00:01 : Silver Current Price : 58.26
+2025-12-03 10:00:01 : ETH Current Price : 3019.23, ETH Low Price : 2784.39, ETH High Price : 3032.76
+2025-12-03 10:00:01 : Data inserted successfully
+[2025-12-03 11:00:05] Script started
+2025-12-03 11:00:05 : BTC Current Price : 92757.54, BTC Low Price : 86216.69, BTC High Price : 93003.31
+2025-12-03 11:00:05 : Gold Current Price : 4225.60
+2025-12-03 11:00:05 : Silver Current Price : 58.67
+2025-12-03 11:00:05 : ETH Current Price : 3031.87, ETH Low Price : 2784.39, ETH High Price : 3046.22
+2025-12-03 11:00:05 : Data inserted successfully
+[2025-12-03 12:00:07] Script started
+2025-12-03 12:00:07 : BTC Current Price : 92756.65, BTC Low Price : 86404.40, BTC High Price : 93003.31
+2025-12-03 12:00:07 : Gold Current Price : 4219.40
+2025-12-03 12:00:07 : Silver Current Price : 58.78
+2025-12-03 12:00:07 : ETH Current Price : 3033.93, ETH Low Price : 2784.39, ETH High Price : 3046.22
+2025-12-03 12:00:07 : Data inserted successfully
+[2025-12-03 13:00:06] Script started
+2025-12-03 13:00:06 : BTC Current Price : 93145.95, BTC Low Price : 86404.40, BTC High Price : 93199.51
+2025-12-03 13:00:06 : Gold Current Price : 4220.50
+2025-12-03 13:00:06 : Silver Current Price : 58.69
+2025-12-03 13:00:06 : ETH Current Price : 3058.73, ETH Low Price : 2784.39, ETH High Price : 3059.33
+2025-12-03 13:00:06 : Data inserted successfully
+[2025-12-03 14:00:04] Script started
+2025-12-03 14:00:04 : BTC Current Price : 93574.25, BTC Low Price : 86404.40, BTC High Price : 93636.26
+2025-12-03 14:00:04 : Gold Current Price : 4207.80
+2025-12-03 14:00:04 : Silver Current Price : 57.79
+2025-12-03 14:00:04 : ETH Current Price : 3061.59, ETH Low Price : 2784.39, ETH High Price : 3070.31
+2025-12-03 14:00:04 : Data inserted successfully
+[2025-12-03 15:00:05] Script started
+2025-12-03 15:00:05 : BTC Current Price : 93393.54, BTC Low Price : 86404.40, BTC High Price : 93965.10
+2025-12-03 15:00:05 : Gold Current Price : 4207.20
+2025-12-03 15:00:05 : Silver Current Price : 57.91
+2025-12-03 15:00:05 : ETH Current Price : 3066.36, ETH Low Price : 2784.39, ETH High Price : 3084.96
+2025-12-03 15:00:05 : Data inserted successfully
+[2025-12-03 16:00:06] Script started
+2025-12-03 16:00:06 : BTC Current Price : 93030.14, BTC Low Price : 86404.40, BTC High Price : 93965.10
+2025-12-03 16:00:06 : Gold Current Price : 4206.50
+2025-12-03 16:00:06 : Silver Current Price : 58.00
+2025-12-03 16:00:06 : ETH Current Price : 3061.77, ETH Low Price : 2784.39, ETH High Price : 3084.96
+2025-12-03 16:00:06 : Script stopped
+[2025-12-03 17:00:03] Script started
+2025-12-03 17:00:03 : BTC Current Price : 92760.69, BTC Low Price : 86404.40, BTC High Price : 93965.10
+2025-12-03 17:00:03 : Gold Current Price : 4206.80
+2025-12-03 17:00:03 : Silver Current Price : 58.08
+2025-12-03 17:00:03 : ETH Current Price : 3049.17, ETH Low Price : 2796.30, ETH High Price : 3084.96
+2025-12-03 17:00:03 : Script stopped
+[2025-12-03 18:00:07] Script started
+2025-12-03 18:00:07 : BTC Current Price : 93178.54, BTC Low Price : 86737.32, BTC High Price : 93965.10
+2025-12-03 18:00:07 : Gold Current Price : 4200.90
+2025-12-03 18:00:07 : Silver Current Price : 58.08
+2025-12-03 18:00:07 : ETH Current Price : 3060.36, ETH Low Price : 2798.28, ETH High Price : 3084.96
+2025-12-03 18:00:07 : Script stopped
+[2025-12-03 19:00:07] Script started
+2025-12-03 19:00:07 : BTC Current Price : 93026.00, BTC Low Price : 87033.17, BTC High Price : 93965.10
+2025-12-03 19:00:07 : Gold Current Price : 4199.70
+2025-12-03 19:00:07 : Silver Current Price : 57.98
+2025-12-03 19:00:07 : ETH Current Price : 3058.54, ETH Low Price : 2817.63, ETH High Price : 3084.96
+2025-12-03 19:00:07 : Script stopped
+[2025-12-03 20:00:01] Script started
+2025-12-03 20:00:01 : BTC Current Price : 93012.14, BTC Low Price : 87107.62, BTC High Price : 93965.10
+2025-12-03 20:00:01 : Gold Current Price : 4206.30
+2025-12-03 20:00:01 : Silver Current Price : 58.25
+2025-12-03 20:00:01 : ETH Current Price : 3073.10, ETH Low Price : 2817.63, ETH High Price : 3084.96
+2025-12-03 20:00:01 : Script stopped
+[2025-12-03 21:00:01] Script started
+2025-12-03 21:00:01 : BTC Current Price : 92959.45, BTC Low Price : 87107.62, BTC High Price : 93965.10
+2025-12-03 21:00:01 : Gold Current Price : 4212.40
+2025-12-03 21:00:01 : Silver Current Price : 58.44
+2025-12-03 21:00:01 : ETH Current Price : 3081.33, ETH Low Price : 2823.58, ETH High Price : 3084.96
+2025-12-03 21:00:01 : Script stopped
+[2025-12-03 22:00:01] Script started
+2025-12-03 22:00:01 : BTC Current Price : 93192.18, BTC Low Price : 87646.45, BTC High Price : 93965.10
+2025-12-03 22:00:01 : Gold Current Price : 4234.60
+2025-12-03 22:00:01 : Silver Current Price : 58.80
+2025-12-03 22:00:01 : ETH Current Price : 3093.40, ETH Low Price : 2841.28, ETH High Price : 3094.04
+2025-12-03 22:00:01 : Script stopped
+[2025-12-03 23:00:01] Script started
+2025-12-03 23:00:01 : BTC Current Price : 92708.81, BTC Low Price : 89155.00, BTC High Price : 93965.10
+2025-12-03 23:00:01 : Gold Current Price : 4213.20
+2025-12-03 23:00:01 : Silver Current Price : 58.30
+2025-12-03 23:00:01 : ETH Current Price : 3089.91, ETH Low Price : 2893.85, ETH High Price : 3141.51
+2025-12-03 23:00:01 : Script stopped
+[2025-12-04 00:00:01] Script started
+2025-12-04 00:00:01 : BTC Current Price : 92477.33, BTC Low Price : 90288.98, BTC High Price : 93965.10
+2025-12-04 00:00:01 : Gold Current Price : 4217.20
+2025-12-04 00:00:01 : Silver Current Price : 58.48
+2025-12-04 00:00:01 : ETH Current Price : 3082.16, ETH Low Price : 2976.18, ETH High Price : 3141.51
+2025-12-04 00:00:01 : Script stopped
+[2025-12-04 01:00:01] Script started
+2025-12-04 01:00:01 : BTC Current Price : 92470.37, BTC Low Price : 90772.05, BTC High Price : 93965.10
+2025-12-04 01:00:01 : Gold Current Price : 4197.50
+2025-12-04 01:00:01 : Silver Current Price : 57.84
+2025-12-04 01:00:01 : ETH Current Price : 3096.60, ETH Low Price : 2976.18, ETH High Price : 3141.51
+2025-12-04 01:00:01 : Script stopped
+[2025-12-04 02:00:01] Script started
+2025-12-04 02:00:01 : BTC Current Price : 93008.57, BTC Low Price : 90799.19, BTC High Price : 93965.10
+2025-12-04 02:00:01 : Gold Current Price : 4211.30
+2025-12-04 02:00:01 : Silver Current Price : 58.36
+2025-12-04 02:00:01 : ETH Current Price : 3131.60, ETH Low Price : 2976.18, ETH High Price : 3141.51
+2025-12-04 02:00:01 : Script stopped
+[2025-12-04 03:00:02] Script started
+2025-12-04 03:00:02 : BTC Current Price : 92574.45, BTC Low Price : 90799.19, BTC High Price : 93965.10
+2025-12-04 03:00:02 : Gold Current Price : 4195.60
+2025-12-04 03:00:02 : Silver Current Price : 58.16
+2025-12-04 03:00:02 : ETH Current Price : 3115.70, ETH Low Price : 2976.18, ETH High Price : 3141.51
+2025-12-04 03:00:02 : Script stopped
+[2025-12-04 04:00:02] Script started
+2025-12-04 04:00:02 : BTC Current Price : 92992.95, BTC Low Price : 90799.19, BTC High Price : 93965.10
+2025-12-04 04:00:02 : Gold Current Price : 4207.60
+2025-12-04 04:00:02 : Silver Current Price : 58.42
+2025-12-04 04:00:02 : ETH Current Price : 3129.87, ETH Low Price : 2976.18, ETH High Price : 3141.51
+2025-12-04 04:00:02 : Script stopped
+[2025-12-04 05:00:02] Script started
+2025-12-04 05:00:02 : BTC Current Price : 93157.42, BTC Low Price : 91037.65, BTC High Price : 93965.10
+2025-12-04 05:00:02 : Gold Current Price : 4205.20
+2025-12-04 05:00:02 : Silver Current Price : 58.43
+2025-12-04 05:00:02 : ETH Current Price : 3142.28, ETH Low Price : 2980.28, ETH High Price : 3154.08
+2025-12-04 05:00:02 : Script stopped
+[2025-12-04 06:00:01] Script started
+2025-12-04 06:00:01 : BTC Current Price : 93619.99, BTC Low Price : 91056.39, BTC High Price : 93965.10
+2025-12-04 06:00:01 : Gold Current Price : 4201.90
+2025-12-04 06:00:01 : Silver Current Price : 58.44
+2025-12-04 06:00:01 : ETH Current Price : 3150.99, ETH Low Price : 2988.14, ETH High Price : 3154.08
+2025-12-04 06:00:01 : Script stopped
+[2025-12-04 07:00:01] Script started
+2025-12-04 07:00:01 : BTC Current Price : 93822.52, BTC Low Price : 91056.39, BTC High Price : 94056.78
+2025-12-04 07:00:01 : Gold Current Price : 4202.10
+2025-12-04 07:00:01 : Silver Current Price : 58.43
+2025-12-04 07:00:01 : ETH Current Price : 3189.56, ETH Low Price : 2988.14, ETH High Price : 3194.69
+2025-12-04 07:00:01 : Script stopped
+[2025-12-04 08:00:01] Script started
+2025-12-04 08:00:01 : BTC Current Price : 93624.44, BTC Low Price : 91056.39, BTC High Price : 94060.77
+2025-12-04 08:00:01 : Gold Current Price : 4205.70
+2025-12-04 08:00:01 : Silver Current Price : 58.44
+2025-12-04 08:00:01 : ETH Current Price : 3196.54, ETH Low Price : 2988.14, ETH High Price : 3212.56
+2025-12-04 08:00:01 : Script stopped
+[2025-12-04 09:00:01] Script started
+Error: Opening BTC Page.
+grep: temp.html: No such file or directory
+grep: temp.html: No such file or directory
+grep: temp.html: No such file or directory
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' , )' at line 1
+2025-12-04 09:00:01 : BTC Current Price : , BTC Low Price : , BTC High Price : 
+rm: cannot remove 'temp.html': No such file or directory
+2025-12-04 09:00:01 : Gold Current Price : 4210.20
+2025-12-04 09:00:01 : Silver Current Price : 58.35
+2025-12-04 09:00:01 : ETH Current Price : 3202.92, ETH Low Price : 3001.52, ETH High Price : 3212.56
+2025-12-04 09:00:01 : Script stopped
+[2025-12-04 10:00:02] Script started
+2025-12-04 10:00:02 : BTC Current Price : 93244.95, BTC Low Price : 91782.96, BTC High Price : 94060.77
+2025-12-04 10:00:02 : Gold Current Price : 4208.50
+2025-12-04 10:00:02 : Silver Current Price : 58.50
+2025-12-04 10:00:02 : ETH Current Price : 3203.08, ETH Low Price : 3015.28, ETH High Price : 3238.56
+2025-12-04 10:00:02 : Script stopped
+[2025-12-04 11:00:01] Script started
+2025-12-04 11:00:01 : BTC Current Price : 93895.63, BTC Low Price : 91782.96, BTC High Price : 94060.77
+2025-12-04 11:00:01 : Gold Current Price : 4202.00
+2025-12-04 11:00:01 : Silver Current Price : 58.42
+2025-12-04 11:00:01 : ETH Current Price : 3224.44, ETH Low Price : 3023.34, ETH High Price : 3238.56
+2025-12-04 11:00:01 : Script stopped
+[2025-12-04 12:00:01] Script started
+2025-12-04 12:00:01 : BTC Current Price : 93544.01, BTC Low Price : 91782.96, BTC High Price : 94060.77
+2025-12-04 12:00:01 : Gold Current Price : 4195.00
+2025-12-04 12:00:01 : Silver Current Price : 58.07
+2025-12-04 12:00:01 : ETH Current Price : 3210.25, ETH Low Price : 3031.33, ETH High Price : 3238.56
+2025-12-04 12:00:01 : Script stopped
+[2025-12-04 13:00:02] Script started
+2025-12-04 13:00:02 : BTC Current Price : 93347.90, BTC Low Price : 91782.96, BTC High Price : 94060.77
+2025-12-04 13:00:02 : Gold Current Price : 4195.20
+2025-12-04 13:00:02 : Silver Current Price : 58.11
+2025-12-04 13:00:02 : ETH Current Price : 3194.10, ETH Low Price : 3034.76, ETH High Price : 3238.56
+2025-12-04 13:00:02 : Script stopped
+[2025-12-04 14:00:02] Script started
+2025-12-04 14:00:02 : BTC Current Price : 92961.90, BTC Low Price : 91782.96, BTC High Price : 94060.77
+2025-12-04 14:00:02 : Gold Current Price : 4178.10
+2025-12-04 14:00:02 : Silver Current Price : 57.52
+2025-12-04 14:00:02 : ETH Current Price : 3182.29, ETH Low Price : 3034.76, ETH High Price : 3238.56
+2025-12-04 14:00:02 : Script stopped
+[2025-12-04 15:00:01] Script started
+2025-12-04 15:00:01 : BTC Current Price : 93141.30, BTC Low Price : 91782.96, BTC High Price : 94060.77
+2025-12-04 15:00:01 : Gold Current Price : 4188.90
+2025-12-04 15:00:01 : Silver Current Price : 57.40
+2025-12-04 15:00:01 : ETH Current Price : 3207.35, ETH Low Price : 3034.76, ETH High Price : 3238.56
+2025-12-04 15:00:01 : Script stopped
+[2025-12-04 16:00:01] Script started
+2025-12-04 16:00:01 : BTC Current Price : 93356.49, BTC Low Price : 91782.96, BTC High Price : 94060.77
+2025-12-04 16:00:01 : Gold Current Price : 4191.00
+2025-12-04 16:00:01 : Silver Current Price : 57.42
+2025-12-04 16:00:01 : ETH Current Price : 3190.64, ETH Low Price : 3034.76, ETH High Price : 3238.56
+2025-12-04 16:00:01 : Script stopped
+[2025-12-04 17:00:01] Script started
+2025-12-04 17:00:01 : BTC Current Price : 93209.29, BTC Low Price : 91782.96, BTC High Price : 94060.77
+2025-12-04 17:00:01 : Gold Current Price : 4189.20
+2025-12-04 17:00:01 : Silver Current Price : 57.14
+2025-12-04 17:00:01 : ETH Current Price : 3181.75, ETH Low Price : 3034.76, ETH High Price : 3238.56
+2025-12-04 17:00:01 : Script stopped
+[2025-12-04 18:00:01] Script started
+2025-12-04 18:00:01 : BTC Current Price : 93487.88, BTC Low Price : 91782.96, BTC High Price : 94060.77
+2025-12-04 18:00:01 : Gold Current Price : 4198.80
+2025-12-04 18:00:01 : Silver Current Price : 57.33
+2025-12-04 18:00:01 : ETH Current Price : 3205.44, ETH Low Price : 3034.76, ETH High Price : 3238.56
+2025-12-04 18:00:01 : Script stopped
+[2025-12-04 19:00:01] Script started
+2025-12-04 19:00:01 : BTC Current Price : 93258.65, BTC Low Price : 91782.96, BTC High Price : 94060.77
+2025-12-04 19:00:01 : Gold Current Price : 4197.10
+2025-12-04 19:00:01 : Silver Current Price : 57.40
+2025-12-04 19:00:01 : ETH Current Price : 3188.37, ETH Low Price : 3034.76, ETH High Price : 3238.56
+2025-12-04 19:00:01 : Script stopped
+[2025-12-04 20:00:01] Script started
+2025-12-04 20:00:01 : BTC Current Price : 92977.89, BTC Low Price : 91782.96, BTC High Price : 94060.77
+2025-12-04 20:00:01 : Gold Current Price : 4198.00
+2025-12-04 20:00:01 : Silver Current Price : 57.53
+2025-12-04 20:00:01 : ETH Current Price : 3187.49, ETH Low Price : 3034.76, ETH High Price : 3238.56
+2025-12-04 20:00:01 : Script stopped
+[2025-12-04 21:00:01] Script started
+2025-12-04 21:00:01 : BTC Current Price : 93084.53, BTC Low Price : 91782.96, BTC High Price : 94060.77
+2025-12-04 21:00:01 : Gold Current Price : 4189.70
+2025-12-04 21:00:01 : Silver Current Price : 57.32
+2025-12-04 21:00:01 : ETH Current Price : 3179.51, ETH Low Price : 3034.76, ETH High Price : 3238.56
+2025-12-04 21:00:01 : Script stopped
+[2025-12-04 22:00:01] Script started
+2025-12-04 22:00:01 : BTC Current Price : 92599.94, BTC Low Price : 91782.96, BTC High Price : 94060.77
+2025-12-04 22:00:01 : Gold Current Price : 4196.00
+2025-12-04 22:00:01 : Silver Current Price : 57.37
+2025-12-04 22:00:01 : ETH Current Price : 3173.76, ETH Low Price : 3034.76, ETH High Price : 3238.56
+2025-12-04 22:00:01 : Script stopped
+[2025-12-04 23:00:01] Script started
+2025-12-04 23:00:01 : BTC Current Price : 92048.28, BTC Low Price : 91842.89, BTC High Price : 94060.77
+2025-12-04 23:00:01 : Gold Current Price : 4201.80
+2025-12-04 23:00:01 : Silver Current Price : 57.00
+2025-12-04 23:00:01 : ETH Current Price : 3153.65, ETH Low Price : 3059.98, ETH High Price : 3238.56
+2025-12-04 23:00:01 : Script stopped
+[2025-12-05 00:00:01] Script started
+2025-12-05 00:00:01 : BTC Current Price : 93009.16, BTC Low Price : 91842.89, BTC High Price : 94060.77
+2025-12-05 00:00:01 : Gold Current Price : 4206.80
+2025-12-05 00:00:01 : Silver Current Price : 56.90
+2025-12-05 00:00:01 : ETH Current Price : 3213.58, ETH Low Price : 3066.84, ETH High Price : 3238.56
+2025-12-05 00:00:01 : Script stopped
+[2025-12-05 01:00:01] Script started
+2025-12-05 01:00:01 : BTC Current Price : 92308.23, BTC Low Price : 91880.22, BTC High Price : 94060.77
+2025-12-05 01:00:01 : Gold Current Price : 4215.20
+2025-12-05 01:00:01 : Silver Current Price : 57.11
+2025-12-05 01:00:01 : ETH Current Price : 3165.37, ETH Low Price : 3087.04, ETH High Price : 3238.56
+2025-12-05 01:00:01 : Script stopped
+[2025-12-05 02:00:01] Script started
+2025-12-05 02:00:01 : BTC Current Price : 92404.20, BTC Low Price : 91812.72, BTC High Price : 94060.77
+2025-12-05 02:00:01 : Gold Current Price : 4216.00
+2025-12-05 02:00:01 : Silver Current Price : 57.10
+2025-12-05 02:00:01 : ETH Current Price : 3159.80, ETH Low Price : 3106.25, ETH High Price : 3238.56
+2025-12-05 02:00:01 : Script stopped
+[2025-12-05 03:00:01] Script started
+2025-12-05 03:00:01 : BTC Current Price : 92053.69, BTC Low Price : 91812.72, BTC High Price : 94060.77
+2025-12-05 03:00:01 : Gold Current Price : 4210.90
+2025-12-05 03:00:01 : Silver Current Price : 56.91
+2025-12-05 03:00:01 : ETH Current Price : 3137.22, ETH Low Price : 3106.25, ETH High Price : 3238.56
+2025-12-05 03:00:01 : Script stopped
+[2025-12-05 04:00:01] Script started
+Error: Opening BTC Page.
+grep: temp.html: No such file or directory
+grep: temp.html: No such file or directory
+grep: temp.html: No such file or directory
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' , )' at line 1
+2025-12-05 04:00:01 : BTC Current Price : , BTC Low Price : , BTC High Price : 
+rm: cannot remove 'temp.html': No such file or directory
+Error: Opening GOLD Page.
+grep: temp.html: No such file or directory
+ERROR 1136 (21S01) at line 1: Column count doesn't match value count at row 1
+2025-12-05 04:00:01 : Gold Current Price : 
+rm: cannot remove 'temp.html': No such file or directory
+Error: Opening SILVER Page.
+grep: temp.html: No such file or directory
+ERROR 1136 (21S01) at line 1: Column count doesn't match value count at row 1
+2025-12-05 04:00:01 : Silver Current Price : 
+rm: cannot remove 'temp.html': No such file or directory
+Error: Opening ETH Page.
+grep: temp.html: No such file or directory
+grep: temp.html: No such file or directory
+grep: temp.html: No such file or directory
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' , )' at line 1
+2025-12-05 04:00:01 : ETH Current Price : , ETH Low Price : , ETH High Price : 
+rm: cannot remove 'temp.html': No such file or directory
+2025-12-05 04:00:01 : Script stopped
+[2025-12-05 05:00:01] Script started
+2025-12-05 05:00:01 : BTC Current Price : 92477.39, BTC Low Price : 90976.10, BTC High Price : 94060.77
+2025-12-05 05:00:01 : Gold Current Price : 4207.40
+2025-12-05 05:00:01 : Silver Current Price : 57.03
+2025-12-05 05:00:01 : ETH Current Price : 3140.38, ETH Low Price : 3071.31, ETH High Price : 3238.56
+2025-12-05 05:00:01 : Script stopped
+[2025-12-05 06:00:01] Script started
+2025-12-05 06:00:01 : BTC Current Price : 92212.76, BTC Low Price : 90976.10, BTC High Price : 94060.77
+2025-12-05 06:00:01 : Gold Current Price : 4207.70
+2025-12-05 06:00:01 : Silver Current Price : 57.06
+2025-12-05 06:00:01 : ETH Current Price : 3126.56, ETH Low Price : 3071.31, ETH High Price : 3238.56
+2025-12-05 06:00:01 : Script stopped
+[2025-12-05 07:00:01] Script started
+2025-12-05 07:00:01 : BTC Current Price : 92460.97, BTC Low Price : 90976.10, BTC High Price : 94060.77
+2025-12-05 07:00:01 : Gold Current Price : 4207.20
+2025-12-05 07:00:01 : Silver Current Price : 57.05
+2025-12-05 07:00:01 : ETH Current Price : 3145.67, ETH Low Price : 3071.31, ETH High Price : 3238.56
+2025-12-05 07:00:01 : Script stopped
+[2025-12-05 08:00:01] Script started
+2025-12-05 08:00:01 : BTC Current Price : 92154.24, BTC Low Price : 90976.10, BTC High Price : 94038.24
+2025-12-05 08:00:01 : Gold Current Price : 4204.30
+2025-12-05 08:00:01 : Silver Current Price : 56.94
+2025-12-05 08:00:01 : ETH Current Price : 3134.33, ETH Low Price : 3071.31, ETH High Price : 3238.56
+2025-12-05 08:00:01 : Script stopped
+[2025-12-05 09:00:01] Script started
+Error: Opening BTC Page.
+grep: temp.html: No such file or directory
+grep: temp.html: No such file or directory
+grep: temp.html: No such file or directory
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' , )' at line 1
+2025-12-05 09:00:01 : BTC Current Price : , BTC Low Price : , BTC High Price : 
+rm: cannot remove 'temp.html': No such file or directory
+Error: Opening GOLD Page.
+grep: temp.html: No such file or directory
+ERROR 1136 (21S01) at line 1: Column count doesn't match value count at row 1
+2025-12-05 09:00:01 : Gold Current Price : 
+rm: cannot remove 'temp.html': No such file or directory
+Error: Opening SILVER Page.
+grep: temp.html: No such file or directory
+ERROR 1136 (21S01) at line 1: Column count doesn't match value count at row 1
+2025-12-05 09:00:01 : Silver Current Price : 
+rm: cannot remove 'temp.html': No such file or directory
+Error: Opening ETH Page.
+grep: temp.html: No such file or directory
+grep: temp.html: No such file or directory
+grep: temp.html: No such file or directory
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' , )' at line 1
+2025-12-05 09:00:01 : ETH Current Price : , ETH Low Price : , ETH High Price : 
+rm: cannot remove 'temp.html': No such file or directory
+2025-12-05 09:00:01 : Script stopped
+[2025-12-05 10:00:02] Script started
+2025-12-05 10:00:02 : BTC Current Price : 92382.77, BTC Low Price : 90976.10, BTC High Price : 94038.24
+2025-12-05 10:00:02 : Gold Current Price : 4201.20
+2025-12-05 10:00:02 : Silver Current Price : 57.12
+2025-12-05 10:00:02 : ETH Current Price : 3165.99, ETH Low Price : 3071.31, ETH High Price : 3227.53
+2025-12-05 10:00:02 : Script stopped
+[2025-12-05 11:00:01] Script started
+2025-12-05 11:00:01 : BTC Current Price : 92558.38, BTC Low Price : 90976.10, BTC High Price : 94038.24
+2025-12-05 11:00:01 : Gold Current Price : 4204.10
+2025-12-05 11:00:01 : Silver Current Price : 57.37
+2025-12-05 11:00:01 : ETH Current Price : 3184.95, ETH Low Price : 3071.31, ETH High Price : 3227.53
+2025-12-05 11:00:01 : Script stopped
+[2025-12-05 12:00:02] Script started
+2025-12-05 12:00:02 : BTC Current Price : 92343.96, BTC Low Price : 90976.10, BTC High Price : 93620.95
+2025-12-05 12:00:02 : Gold Current Price : 4207.30
+2025-12-05 12:00:02 : Silver Current Price : 57.37
+2025-12-05 12:00:02 : ETH Current Price : 3172.36, ETH Low Price : 3071.31, ETH High Price : 3223.17
+2025-12-05 12:00:02 : Script stopped
+[2025-12-05 13:00:01] Script started
+2025-12-05 13:00:01 : BTC Current Price : 92082.33, BTC Low Price : 90976.10, BTC High Price : 93620.95
+2025-12-05 13:00:01 : Gold Current Price : 4215.20
+2025-12-05 13:00:01 : Silver Current Price : 57.70
+2025-12-05 13:00:01 : ETH Current Price : 3171.25, ETH Low Price : 3071.31, ETH High Price : 3223.17
+2025-12-05 13:00:01 : Script stopped
+[2025-12-05 14:00:01] Script started
+2025-12-05 14:00:01 : BTC Current Price : 91930.98, BTC Low Price : 90976.10, BTC High Price : 93620.95
+2025-12-05 14:00:01 : Gold Current Price : 4219.10
+2025-12-05 14:00:01 : Silver Current Price : 58.06
+2025-12-05 14:00:01 : ETH Current Price : 3154.55, ETH Low Price : 3071.31, ETH High Price : 3223.17
+2025-12-05 14:00:01 : Script stopped
+[2025-12-05 15:00:01] Script started
+2025-12-05 15:00:01 : BTC Current Price : 92246.24, BTC Low Price : 90976.10, BTC High Price : 93620.95
+2025-12-05 15:00:01 : Gold Current Price : 4224.50
+2025-12-05 15:00:01 : Silver Current Price : 58.20
+2025-12-05 15:00:01 : ETH Current Price : 3167.77, ETH Low Price : 3071.31, ETH High Price : 3223.17
+2025-12-05 15:00:01 : Script stopped
+[2025-12-05 16:00:01] Script started
+2025-12-05 16:00:01 : BTC Current Price : 92256.77, BTC Low Price : 90976.10, BTC High Price : 93620.95
+2025-12-05 16:00:01 : Gold Current Price : 4224.10
+2025-12-05 16:00:01 : Silver Current Price : 58.18
+2025-12-05 16:00:01 : ETH Current Price : 3174.37, ETH Low Price : 3071.31, ETH High Price : 3223.17
+2025-12-05 16:00:01 : Script stopped
+[2025-12-05 17:00:01] Script started
+2025-12-05 17:00:01 : BTC Current Price : 92085.37, BTC Low Price : 90976.10, BTC High Price : 93620.95
+2025-12-05 17:00:01 : Gold Current Price : 4220.50
+2025-12-05 17:00:01 : Silver Current Price : 58.12
+2025-12-05 17:00:01 : ETH Current Price : 3156.74, ETH Low Price : 3071.31, ETH High Price : 3223.17
+2025-12-05 17:00:01 : Script stopped
+[2025-12-05 18:00:01] Script started
+2025-12-05 18:00:01 : BTC Current Price : 91086.65, BTC Low Price : 90976.10, BTC High Price : 93567.09
+2025-12-05 18:00:01 : Gold Current Price : 4223.10
+2025-12-05 18:00:01 : Silver Current Price : 58.08
+2025-12-05 18:00:01 : ETH Current Price : 3117.21, ETH Low Price : 3071.31, ETH High Price : 3223.17
+2025-12-05 18:00:01 : Script stopped
+[2025-12-05 19:00:01] Script started
+2025-12-05 19:00:01 : BTC Current Price : 91399.99, BTC Low Price : 90976.10, BTC High Price : 93300.09
+2025-12-05 19:00:01 : Gold Current Price : 4223.30
+2025-12-05 19:00:01 : Silver Current Price : 58.12
+2025-12-05 19:00:01 : ETH Current Price : 3141.49, ETH Low Price : 3071.31, ETH High Price : 3223.17
+2025-12-05 19:00:01 : Script stopped
+[2025-12-05 20:00:01] Script started
+2025-12-05 20:00:01 : BTC Current Price : 91392.83, BTC Low Price : 90976.10, BTC High Price : 93223.37
+2025-12-05 20:00:01 : Gold Current Price : 4222.20
+2025-12-05 20:00:01 : Silver Current Price : 58.10
+2025-12-05 20:00:01 : ETH Current Price : 3135.10, ETH Low Price : 3071.31, ETH High Price : 3223.17
+2025-12-05 20:00:01 : Script stopped
+[2025-12-05 21:00:01] Script started
+2025-12-05 21:00:01 : BTC Current Price : 91239.79, BTC Low Price : 90976.10, BTC High Price : 93223.37
+2025-12-05 21:00:01 : Gold Current Price : 4227.20
+2025-12-05 21:00:01 : Silver Current Price : 58.06
+2025-12-05 21:00:01 : ETH Current Price : 3130.15, ETH Low Price : 3071.31, ETH High Price : 3223.17
+2025-12-05 21:00:01 : Script stopped
+[2025-12-05 22:00:02] Script started
+2025-12-05 22:00:02 : BTC Current Price : 90693.13, BTC Low Price : 90332.37, BTC High Price : 93223.37
+2025-12-05 22:00:02 : Gold Current Price : 4235.60
+2025-12-05 22:00:02 : Silver Current Price : 58.18
+2025-12-05 22:00:02 : ETH Current Price : 3107.40, ETH Low Price : 3071.31, ETH High Price : 3223.17
+2025-12-05 22:00:02 : Script stopped
+[2025-12-05 23:00:01] Script started
+2025-12-05 23:00:01 : BTC Current Price : 90303.23, BTC Low Price : 90004.33, BTC High Price : 93223.37
+2025-12-05 23:00:01 : Gold Current Price : 4240.70
+2025-12-05 23:00:01 : Silver Current Price : 58.52
+2025-12-05 23:00:01 : ETH Current Price : 3103.63, ETH Low Price : 3071.31, ETH High Price : 3223.17
+2025-12-05 23:00:01 : Script stopped
+[2025-12-06 00:00:01] Script started
+2025-12-06 00:00:01 : BTC Current Price : 90588.07, BTC Low Price : 90004.33, BTC High Price : 93175.36
+2025-12-06 00:00:01 : Gold Current Price : 4240.00
+2025-12-06 00:00:01 : Silver Current Price : 58.84
+2025-12-06 00:00:01 : ETH Current Price : 3109.78, ETH Low Price : 3071.31, ETH High Price : 3223.17
+2025-12-06 00:00:01 : Script stopped
+[2025-12-06 01:00:01] Script started
+2025-12-06 01:00:01 : BTC Current Price : 88744.90, BTC Low Price : 88152.14, BTC High Price : 92707.20
+2025-12-06 01:00:01 : Gold Current Price : 4214.90
+2025-12-06 01:00:01 : Silver Current Price : 58.43
+2025-12-06 01:00:01 : ETH Current Price : 3023.22, ETH Low Price : 3004.74, ETH High Price : 3192.46
+2025-12-06 01:00:01 : Script stopped
+[2025-12-06 02:00:01] Script started
+2025-12-06 02:00:01 : BTC Current Price : 89383.67, BTC Low Price : 88152.14, BTC High Price : 92707.20
+2025-12-06 02:00:01 : Gold Current Price : 4215.70
+2025-12-06 02:00:01 : Silver Current Price : 58.55
+2025-12-06 02:00:01 : ETH Current Price : 3032.50, ETH Low Price : 3004.74, ETH High Price : 3192.46
+2025-12-06 02:00:01 : Script stopped
+[2025-12-06 03:00:01] Script started
+2025-12-06 03:00:01 : BTC Current Price : 89087.88, BTC Low Price : 88152.14, BTC High Price : 92707.20
+2025-12-06 03:00:01 : Gold Current Price : 4207.10
+2025-12-06 03:00:01 : Silver Current Price : 58.45
+2025-12-06 03:00:01 : ETH Current Price : 3011.45, ETH Low Price : 3004.74, ETH High Price : 3192.46
+2025-12-06 03:00:01 : Script stopped
+[2025-12-06 04:00:01] Script started
+2025-12-06 04:00:01 : BTC Current Price : 89587.12, BTC Low Price : 88152.14, BTC High Price : 92707.20
+2025-12-06 04:00:01 : Gold Current Price : 4207.20
+2025-12-06 04:00:01 : Silver Current Price : 58.38
+2025-12-06 04:00:01 : ETH Current Price : 3036.31, ETH Low Price : 2989.83, ETH High Price : 3192.46
+2025-12-06 04:00:01 : Script stopped
+[2025-12-06 05:00:01] Script started
+2025-12-06 05:00:01 : BTC Current Price : 89336.26, BTC Low Price : 88152.14, BTC High Price : 92707.20
+2025-12-06 05:00:01 : Gold Current Price : 4201.50
+2025-12-06 05:00:01 : Silver Current Price : 58.31
+2025-12-06 05:00:01 : ETH Current Price : 3023.47, ETH Low Price : 2989.83, ETH High Price : 3192.46
+2025-12-06 05:00:01 : Script stopped
+[2025-12-06 06:00:01] Script started
+2025-12-06 06:00:01 : BTC Current Price : 89206.96, BTC Low Price : 88152.14, BTC High Price : 92702.64
+2025-12-06 06:00:01 : Gold Current Price : 4197.70
+2025-12-06 06:00:01 : Silver Current Price : 58.28
+2025-12-06 06:00:01 : ETH Current Price : 3020.68, ETH Low Price : 2989.83, ETH High Price : 3192.46
+2025-12-06 06:00:01 : Script stopped
+[2025-12-06 07:00:01] Script started
+2025-12-06 07:00:01 : BTC Current Price : 89319.44, BTC Low Price : 88152.14, BTC High Price : 92702.64
+2025-12-06 07:00:01 : Gold Current Price : 4197.30
+2025-12-06 07:00:01 : Silver Current Price : 58.27
+2025-12-06 07:00:01 : ETH Current Price : 3030.29, ETH Low Price : 2989.83, ETH High Price : 3192.46
+2025-12-06 07:00:01 : Script stopped
+[2025-12-06 08:00:02] Script started
+2025-12-06 08:00:02 : BTC Current Price : 89384.48, BTC Low Price : 88152.14, BTC High Price : 92702.64
+2025-12-06 08:00:02 : Gold Current Price : 4197.30
+2025-12-06 08:00:02 : Silver Current Price : 58.27
+2025-12-06 08:00:02 : ETH Current Price : 3023.79, ETH Low Price : 2989.83, ETH High Price : 3192.46
+2025-12-06 08:00:02 : Script stopped
+[2025-12-06 09:00:01] Script started
+2025-12-06 09:00:01 : BTC Current Price : 89427.16, BTC Low Price : 88152.14, BTC High Price : 92702.64
+2025-12-06 09:00:01 : Gold Current Price : 4197.30
+2025-12-06 09:00:01 : Silver Current Price : 58.27
+2025-12-06 09:00:01 : ETH Current Price : 3026.01, ETH Low Price : 2989.83, ETH High Price : 3192.46
+2025-12-06 09:00:01 : Script stopped
+[2025-12-06 10:00:01] Script started
+2025-12-06 10:00:01 : BTC Current Price : 89342.25, BTC Low Price : 88152.14, BTC High Price : 92702.64
+2025-12-06 10:00:01 : Gold Current Price : 4197.30
+2025-12-06 10:00:01 : Silver Current Price : 58.27
+2025-12-06 10:00:01 : ETH Current Price : 3027.07, ETH Low Price : 2989.83, ETH High Price : 3192.46
+2025-12-06 10:00:01 : Script stopped
+[2025-12-06 11:00:01] Script started
+2025-12-06 11:00:01 : BTC Current Price : 89338.73, BTC Low Price : 88152.14, BTC High Price : 92668.18
+2025-12-06 11:00:01 : Gold Current Price : 4197.30
+2025-12-06 11:00:01 : Silver Current Price : 58.27
+2025-12-06 11:00:01 : ETH Current Price : 3029.52, ETH Low Price : 2989.83, ETH High Price : 3192.46
+2025-12-06 11:00:01 : Script stopped
+[2025-12-06 12:00:02] Script started
+2025-12-06 12:00:02 : BTC Current Price : 89735.70, BTC Low Price : 88152.14, BTC High Price : 92498.17
+2025-12-06 12:00:02 : Gold Current Price : 4197.30
+2025-12-06 12:00:02 : Silver Current Price : 58.27
+2025-12-06 12:00:02 : ETH Current Price : 3038.94, ETH Low Price : 2989.83, ETH High Price : 3182.35
+2025-12-06 12:00:02 : Script stopped
+[2025-12-06 13:00:01] Script started
+2025-12-06 13:00:01 : BTC Current Price : 89673.91, BTC Low Price : 88152.14, BTC High Price : 92498.17
+2025-12-06 13:00:01 : Gold Current Price : 4197.30
+2025-12-06 13:00:01 : Silver Current Price : 58.27
+2025-12-06 13:00:01 : ETH Current Price : 3036.29, ETH Low Price : 2989.83, ETH High Price : 3182.35
+2025-12-06 13:00:01 : Script stopped
+[2025-12-06 14:00:01] Script started
+2025-12-06 14:00:01 : BTC Current Price : 89634.77, BTC Low Price : 88152.14, BTC High Price : 92498.17
+2025-12-06 14:00:01 : Gold Current Price : 4197.30
+2025-12-06 14:00:01 : Silver Current Price : 58.27
+2025-12-06 14:00:01 : ETH Current Price : 3040.40, ETH Low Price : 2989.83, ETH High Price : 3182.35
+2025-12-06 14:00:01 : Script stopped
+[2025-12-06 15:00:01] Script started
+2025-12-06 15:00:01 : BTC Current Price : 89695.67, BTC Low Price : 88152.14, BTC High Price : 92498.17
+2025-12-06 15:00:01 : Gold Current Price : 4197.30
+2025-12-06 15:00:01 : Silver Current Price : 58.27
+2025-12-06 15:00:01 : ETH Current Price : 3040.39, ETH Low Price : 2989.83, ETH High Price : 3182.35
+2025-12-06 15:00:01 : Script stopped
+[2025-12-06 16:00:01] Script started
+2025-12-06 16:00:01 : BTC Current Price : 89646.02, BTC Low Price : 88152.14, BTC High Price : 92264.86
+2025-12-06 16:00:01 : Gold Current Price : 4197.30
+2025-12-06 16:00:01 : Silver Current Price : 58.27
+2025-12-06 16:00:01 : ETH Current Price : 3029.08, ETH Low Price : 2989.83, ETH High Price : 3174.08
+2025-12-06 16:00:01 : Script stopped
+[2025-12-06 17:00:01] Script started
+2025-12-06 17:00:01 : BTC Current Price : 89336.37, BTC Low Price : 88152.14, BTC High Price : 92141.86
+2025-12-06 17:00:01 : Gold Current Price : 4197.30
+2025-12-06 17:00:01 : Silver Current Price : 58.27
+2025-12-06 17:00:01 : ETH Current Price : 3017.10, ETH Low Price : 2989.83, ETH High Price : 3157.21
+2025-12-06 17:00:01 : Script stopped
+[2025-12-06 18:00:01] Script started
+2025-12-06 18:00:01 : BTC Current Price : 89654.95, BTC Low Price : 88152.14, BTC High Price : 91553.78
+2025-12-06 18:00:01 : Gold Current Price : 4197.30
+2025-12-06 18:00:01 : Silver Current Price : 58.27
+2025-12-06 18:00:01 : ETH Current Price : 3031.18, ETH Low Price : 2989.83, ETH High Price : 3154.09
+2025-12-06 18:00:01 : Script stopped
+[2025-12-06 19:00:01] Script started
+2025-12-06 19:00:01 : BTC Current Price : 89541.42, BTC Low Price : 88152.14, BTC High Price : 91553.78
+2025-12-06 19:00:01 : Gold Current Price : 4197.30
+2025-12-06 19:00:01 : Silver Current Price : 58.27
+2025-12-06 19:00:01 : ETH Current Price : 3032.25, ETH Low Price : 2989.83, ETH High Price : 3154.09
+2025-12-06 19:00:01 : Script stopped
+[2025-12-06 20:00:01] Script started
+2025-12-06 20:00:01 : BTC Current Price : 89675.31, BTC Low Price : 88152.14, BTC High Price : 91422.67
+2025-12-06 20:00:01 : Gold Current Price : 4197.30
+2025-12-06 20:00:01 : Silver Current Price : 58.27
+2025-12-06 20:00:01 : ETH Current Price : 3040.31, ETH Low Price : 2989.83, ETH High Price : 3154.09
+2025-12-06 20:00:01 : Script stopped
+[2025-12-06 21:00:01] Script started
+2025-12-06 21:00:01 : BTC Current Price : 89610.25, BTC Low Price : 88152.14, BTC High Price : 91402.49
+2025-12-06 21:00:01 : Gold Current Price : 4197.30
+2025-12-06 21:00:01 : Silver Current Price : 58.27
+2025-12-06 21:00:01 : ETH Current Price : 3032.63, ETH Low Price : 2989.83, ETH High Price : 3154.09
+2025-12-06 21:00:01 : Script stopped
+[2025-12-06 22:00:01] Script started
+2025-12-06 22:00:01 : BTC Current Price : 89703.52, BTC Low Price : 88152.14, BTC High Price : 91402.49
+2025-12-06 22:00:01 : Gold Current Price : 4197.30
+2025-12-06 22:00:01 : Silver Current Price : 58.27
+2025-12-06 22:00:01 : ETH Current Price : 3038.28, ETH Low Price : 2989.83, ETH High Price : 3154.09
+2025-12-06 22:00:01 : Script stopped
