@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # SQL executable path variable
 SQL_PATH="/mnt/c/xampp/mysql/bin/mysql.exe"
 
