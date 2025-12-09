@@ -185,3 +185,58 @@ EOF
 
 rm temp
 
+# Generate BTC average price graph
+/mnt/c/xampp/mysql/bin/mysql.exe -u root -B -N -e "
+USE Crypto_DB;
+SELECT 
+    DATE(timestamp) as date,
+    AVG(BTCcurrentPrice) as avg_price
+FROM BTC 
+GROUP BY DATE(timestamp)
+ORDER BY date;" | tr -d '\r' > temp_daily_avg
+
+gnuplot << EOF
+set terminal png size 1200,800
+set output "btc_daily_avg.png"
+set title "Bitcoin Daily Average Price"
+set xlabel "Date"
+set ylabel "Average Price (USD)"
+set grid
+set xdata time
+set timefmt "%Y-%m-%d"
+set format x "%m/%d"
+set xtics rotate
+set ytics format "%.0f"
+
+plot 'temp_daily_avg' using 1:2 with lines lw 2 lc "green" title "Daily Average"
+EOF
+
+rm temp_daily_avg
+
+# Generate ETH average price graph
+/mnt/c/xampp/mysql/bin/mysql.exe -u root -B -N -e "
+USE Crypto_DB;
+SELECT 
+    DATE(timestamp) as date,
+    AVG(ETHcurrentPrice) as avg_price
+FROM ETH 
+GROUP BY DATE(timestamp)
+ORDER BY date;" | tr -d '\r' > temp_daily_avg
+
+gnuplot << EOF
+set terminal png size 1200,800
+set output "eth_daily_avg.png"
+set title "Ethereum Daily Average Price"
+set xlabel "Date"
+set ylabel "Average Price (USD)"
+set grid
+set xdata time
+set timefmt "%Y-%m-%d"
+set format x "%m/%d"
+set xtics rotate
+set ytics format "%.0f"
+
+plot 'temp_daily_avg' using 1:2 with lines lw 2 lc "green" title "Daily Average"
+EOF
+
+rm temp_daily_avg
